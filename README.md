@@ -1,4 +1,4 @@
-# ESP32_DIN_MIDI_CONTROL_ESPNOW-ESP2
+# ESP32_DIN_MIDI_CONTROL_ESPNOW_ESP2
 Using ESP32 boards to build a multinode MIDI controller with each node being responsible for a different task.
 
 Communication between boards via ESPNOW.
